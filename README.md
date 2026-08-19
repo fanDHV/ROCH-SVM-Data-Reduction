@@ -1,4 +1,5 @@
-# ROCH-SVM-Data-Reduction
+# ROCH-SVM
+
 Research code for **Data Reduction for Support Vector Machine Training Using
 Restricted-Orientation Convex Hulls**.
 
@@ -86,3 +87,8 @@ header; see `data/README.md` for dataset notes.
 If this code supports your research, please cite the accompanying article.
 Bibliographic metadata can be added to `CITATION.cff` after publication.
 
+## License
+
+No software license has yet been selected. Add a `LICENSE` file before making
+the repository public if you want to grant reuse, modification, or
+redistribution rights.
