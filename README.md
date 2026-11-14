@@ -1,4 +1,4 @@
-# ROCH-SVM — điểm bắt đầu duy nhất
+# ROCH-SVM 
 
 Đọc file này để biết code nằm đâu; đọc [LO_TRINH.md](LO_TRINH.md) để biết việc đã xong và việc tiếp theo. Chạy mọi lệnh từ thư mục `code/`. File hướng dẫn nằm trong gói đóng băng chỉ phục vụ mang gói sang máy khác; hai tài liệu ở đây là chỉ dẫn cho workspace hiện tại.
 
